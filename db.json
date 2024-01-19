@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "email": "talha@gmail.com",
+      "password": "$2a$10$yih83KLCIpzi3XPOwNLGrOyAy4Qi3ckUjLvMmrmDgIboWnS55B8pu",
+      "name": "Talha",
+      "role": "author",
+      "id": 1
+    },
+    {
+      "email": "mayo@gmail.com",
+      "password": "$2a$10$82qN2h2TwpKnMFKINfIWkem.Om80pOsTaTB7EmKx38aOwHHxQfFDS",
+      "name": "Mayo",
+      "role": "collaborator",
+      "permissions": [
+        "edit",
+        "delete",
+        "add"
+      ],
+      "id": 2
+    }
+  ]
+}
